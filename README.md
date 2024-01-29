@@ -21,3 +21,12 @@ To run the ToDo List application locally, follow these steps:
    ```bash
    git clone https://github.com/your-repository/todo-list.git
    cd todo-list
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+
+2. **Run the Application**
+   ```bash
+npm run dev
+ 
