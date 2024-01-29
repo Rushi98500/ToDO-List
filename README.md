@@ -26,7 +26,7 @@ To run the ToDo List application locally, follow these steps:
    ```bash
    npm install
 
-2. **Run the Application**
+3. **Run the Application**
    ```bash
-npm run dev
+   npm run dev
  
